@@ -1,11 +1,14 @@
-## WHMCS shadowsocks插件（修復bug）  
+## WHMCS shadowsocks插件
+
+---
 
 ### 修復了以下bug  
 - 流量顯示問題
 - 自定義字段 區域名稱 'password|Password'  
 - 自定義字段 驗證 '/^[\w]{4,16}$/i'  
 
-HoshinoTouko
+HoshinoTouko 2016-04-28
+
 
 ---
 
