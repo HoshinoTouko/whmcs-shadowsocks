@@ -1,6 +1,7 @@
 <?php
 /**
  * @author Tension
+ * @modify HoshinoTouko
  * @version 1.0.0
  */
 function shadowsocks_ConfigOptions() {
